@@ -198,7 +198,7 @@ justify-content: flex-end;
 	display: flex;
 	justify-content: flex-end;
 	align-content: flex-end;
-	position: absolute;
+	position:absolute;
 	height: 24vh;
 	width: 32vw;
 	background-color: #2c2f69;
@@ -212,7 +212,7 @@ justify-content: flex-end;
 }
 p{
 	display: flex;
-	position: static;
+	
 	font-size: 50px;	
 	justify-content: center;	
 	align-content: center;
