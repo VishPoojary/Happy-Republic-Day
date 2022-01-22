@@ -219,7 +219,7 @@ p{
 	align-items: center;	
 	color: white;
 	animation: message 5s linear infinite ;
-	z-index: 1;
+	
 }
 @keyframes message{
 	0%{
